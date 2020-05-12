@@ -1,3 +1,9 @@
+Project is prebuilded.
+To see site in browser type in terminal:
+1. npm install
+2. npm run deploy
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
